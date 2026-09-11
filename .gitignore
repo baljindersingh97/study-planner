@@ -46,6 +46,6 @@ desktop.ini
 # Local assessment and report files
 B215 Assessment Brief (2).pdf
 B215_Study_Planner_*.docx
-B215_Study_Planner_Final_Report.pdf
+B215_Study_Planner_*_Report.pdf
 report_evidence/
 scripts/create_report_structure.py
