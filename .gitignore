@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Generated test output
+coverage/
+playwright-report/
+test-results/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TypeScript and Vite cache
+*.tsbuildinfo
+.vite/
+
+# Temporary files
+*.tmp
+*.temp
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Local assessment and report files
+B215 Assessment Brief (2).pdf
+B215_Study_Planner_*.docx
+B215_Study_Planner_Final_Report.pdf
+report_evidence/
+scripts/create_report_structure.py
